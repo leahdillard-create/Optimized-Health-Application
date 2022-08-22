@@ -19,4 +19,4 @@ We will use Node.js in order to connect the client side of the website to the se
  
 # Heroku Link: https://optimizedhealth.herokuapp.com/
 
-# Authors: Vignesh Chandrasekhar, Leah Dillard, Finbar Forward, Evie Lee, Jamal Giornazi
+### Authors: Vignesh Chandrasekhar, Leah Dillard, Finbar Forward, Evie Lee, Jamal Giornazi
